@@ -1,9 +1,9 @@
-# Core v2 Management Tool - Ark Mainnet
+# Core v2 Management Tool - SBX Mainnet
 
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control
+git clone https://github.com/SwapBlocks/core-control.git
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
